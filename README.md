@@ -2,6 +2,8 @@
 
 ---
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## 📝 Sobre o Projeto
 Este projeto foi desenvolvido de ponta a ponta para resolver o desafio de consolidação de grandes volumes de dados esportivos. O objetivo principal foi centralizar, modelar e analisar estatísticas de performance de atletas para gerenciamento de scout técnico visando a **Copa do Mundo de 2026**.
 
